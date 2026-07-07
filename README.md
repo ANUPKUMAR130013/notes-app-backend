@@ -69,7 +69,7 @@ notes-app-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/notes-app-backend.git
+https://github.com/ANUPKUMAR130013/notes-app-backend/tree/main
 ```
 
 ### 2. Navigate to the Project Folder
